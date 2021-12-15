@@ -1,3 +1,6 @@
+# handwritten character recognition
+https://drive.google.com/drive/folders/0BwNkduBnePt2R3poZHB0U0lRYVk?resourcekey=0-hO9McJ4gsr5gR8HLECYLdw    MNIST DATASET
+
 # Handwritten-Mathematical-equation-solver
 This is a CNN based machine learning model built with Keras API
 # The dataset that we have used in this project is  
